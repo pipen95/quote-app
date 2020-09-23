@@ -26,7 +26,7 @@ export class Quote extends Component {
                 className="btn btn-light"
                 onClick={this.handleClick}
               >
-                Next Quote <span className="emoji">📝</span>
+                Next Quote
               </button>
             </div>
           )}
